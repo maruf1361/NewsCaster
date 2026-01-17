@@ -1,0 +1,5 @@
+{
+  "name": "NewsCaster AI",
+  "description": "Turn your daily reading list into a personalized audio podcast for your commute using Gemini's advanced summarization and speech synthesis.",
+  "requestFramePermissions": []
+}
